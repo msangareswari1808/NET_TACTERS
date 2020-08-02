@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "750702682230",
+    "firebase_url": "https://indiframe-78655.firebaseio.com",
+    "project_id": "indiframe-78655",
+    "storage_bucket": "indiframe-78655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750702682230:android:3eeb93dcbdf7a3885eff57",
+        "android_client_info": {
+          "package_name": "techiecoders.indiaframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750702682230-7mnrab5r68av3hbp8uog9662qm59dms3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRYGNOdcDM9cCgcUzAU3ARm5tDrzrSN2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750702682230-7mnrab5r68av3hbp8uog9662qm59dms3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
